@@ -7,3 +7,7 @@ Examples to try HuggingFace datasets and transformers
 * Install the [Transformers](https://github.com/huggingface/transformers) Python package from the [requirements.txt](./requirements.txt) file
 
 Browse through the [Jupyter Notebook examples](./notebooks).
+
+Notes...
+Use pip install -r requirements.txt
+
